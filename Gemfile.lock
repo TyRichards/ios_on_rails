@@ -106,6 +106,7 @@ GEM
     newrelic_rpm (3.8.1.221)
     nokogiri (1.6.2.1)
       mini_portile (= 0.6.0)
+    oj (2.9.3)
     pg (0.17.1)
     polyglot (0.3.4)
     pry (0.9.12.6)
@@ -225,6 +226,7 @@ DEPENDENCIES
   launchy
   neat (~> 1.5.1)
   newrelic_rpm (>= 3.7.3)
+  oj
   pg
   pry-rails
   rack-timeout

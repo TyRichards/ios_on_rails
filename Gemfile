@@ -20,6 +20,7 @@ gem 'simple_form'
 gem 'title'
 gem 'uglifier'
 gem 'unicorn'
+gem 'oj' # Json Parser (for incoming requests)
 
 group :development do
   gem 'foreman'

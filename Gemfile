@@ -21,6 +21,7 @@ gem 'title'
 gem 'uglifier'
 gem 'unicorn'
 gem 'oj' # Json Parser (for incoming requests)
+gem 'apipie-rails'
 
 group :development do
   gem 'foreman'

@@ -31,6 +31,9 @@ GEM
     airbrake (3.1.16)
       builder
       multi_json
+    apipie-rails (0.2.0)
+      json
+      rails (>= 3.0.10)
     arel (5.0.1.20140414130214)
     awesome_print (1.2.0)
     bourbon (3.2.1)
@@ -210,6 +213,7 @@ PLATFORMS
 
 DEPENDENCIES
   airbrake
+  apipie-rails
   awesome_print
   bourbon (~> 3.2.1)
   capybara-webkit (>= 1.0.0)
